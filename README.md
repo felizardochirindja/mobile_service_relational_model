@@ -1,7 +1,7 @@
 # Modelo Relacional de um BSS para uma Telefonia Móvel
 
 ## Visão Geral
-Este projeto apresenta um **modelo de dados para um Business Support System (BSS) de telefonia móvel**, projetado para simular as operações centrais de uma operadora móvel. O modelo cobre assinantes, planos, pacotes, serviços, faturamento, recargas e registro de uso, fornecendo uma base para compreender as operações de telecomunicações a nível de banco de dados.
+Este projeto apresenta um **modelo de dados para um Business Support System (BSS) de uma telefonia móvel**, projetado para simular as operações centrais de uma operadora móvel. O modelo cobre assinantes, planos, pacotes, serviços, faturamento, recargas e registro de uso, fornecendo uma base para compreender as operações de telecomunicações a nível de banco de dados.
 
 ## Objetivo
 O principal objetivo deste projeto é explorar a **arquitetura e funcionamento dos sistemas de telecomunicações**, incluindo como os dados dos assinantes, pacotes de serviços, saldos e detalhes de uso interagem em um ambiente de rede móvel. Além disso, demonstra a aplicação prática de **modelagem relacional em MySQL**, com relações e integridade referencial.
@@ -17,8 +17,7 @@ O principal objetivo deste projeto é explorar a **arquitetura e funcionamento d
 
 ## Tecnologias
 - **Banco de Dados:** MySQL (com engine InnoDB)  
-- **Ferramenta de Modelagem:** MySQL Workbench (Forward Engineering)  
-- **Principais Recursos:** Chaves estrangeiras, índices, tipos ENUM, tabelas com suporte a transações.  
+- **Ferramenta de Modelagem:** MySQL Workbench 
 
 ## Estrutura do Banco de Dados
 - **Assinantes e Contas:** Armazena informações de identidade do assinante e status da conta.  
