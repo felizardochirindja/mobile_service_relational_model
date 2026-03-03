@@ -1,4 +1,4 @@
-# Modelo Relacional de BSS para uma Telefonia Móvel
+# Modelo Relacional de um BSS para uma Telefonia Móvel
 
 ## Visão Geral
 Este projeto apresenta um **modelo de dados para um Business Support System (BSS) de telefonia móvel**, projetado para simular as operações centrais de uma operadora móvel. O modelo cobre assinantes, planos, pacotes, serviços, faturamento, recargas e registro de uso, fornecendo uma base para compreender as operações de telecomunicações a nível de banco de dados.
